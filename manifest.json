@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Confetti To-Do List",
+  "version": "1.0",
+  "description": "A simple to-do list that celebrates your tasks with confetti!",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "permissions": ["storage"],
+  "host_permissions": ["<all_urls>"],
+  "web_accessible_resources": [
+    {
+      "resources": ["confetti.browser.min.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
