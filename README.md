@@ -16,9 +16,9 @@ Perfect for keeping track of tasks while adding a little **fun and motivation** 
 ---
 
 ## 📸 **Screenshots**
-![Confetti To-Do List Screenshot](https://via.placeholder.com/500x300?text=<img width="619" alt="image" src="https://github.com/user-attachments/assets/9ebed705-6e81-41e3-9e0a-89d48517a9eb" />
-)  
-_(Replace the placeholder with a real screenshot from your extension)_
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/3f91971b-41be-44b2-86ad-01c5c6b74b42" />
+
+
 
 ---
 
